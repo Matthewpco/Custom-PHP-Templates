@@ -1,4 +1,4 @@
-![](https://wpwebdevelopment.com/wp-content/uploads/2021/12/artesian-partners-cpt-clip.jpg)
+![](https://github.com/Matthewpco/Custom-PHP-Templates/blob/main/partners-archive-clip.jpg)
 
 # This is a custom PHP template meant to work with custom posts and fields
 
@@ -18,5 +18,5 @@
 - PHP
 <br>
 
-![](https://wpwebdevelopment.com/wp-content/uploads/2021/12/artesian-partners-cpt-clip2.jpg)
+![](https://github.com/Matthewpco/Custom-PHP-Templates/blob/main/partners-single-clip.jpg)
 
