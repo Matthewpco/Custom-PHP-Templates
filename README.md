@@ -16,6 +16,8 @@
 - WordPress
 - Theme Development
 - PHP
+- HTML
+- CSS
 <br>
 
 ![](https://github.com/Matthewpco/Custom-PHP-Templates/blob/main/partners-single-clip.jpg)
