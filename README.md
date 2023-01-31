@@ -1,6 +1,6 @@
 ![](https://github.com/Matthewpco/Custom-PHP-Templates/blob/main/partners-archive-clip.jpg)
 
-# This is a custom PHP template meant to work with custom posts and fields
+# These are custom PHP archive and single templates meant to work with custom partners posts and fields.
 
 <br>
 
